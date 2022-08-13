@@ -9,7 +9,7 @@ bootcamp "*HTML Web Developer*" da [DIO](https://www.dio.me/).
     <th>Mobile</th>
   </tr>
   <tr>
-    <td><img src="screenshots/desktop.png" height="350" title="Desktop" alt="Visualização em desktop"></td>
-    <td><img src="screenshots/mobile.png" height="350" title="Mobile" alt="Visualização em mobile"></td>
+    <td><img src="screenshots/desktop.png" height="330" title="Desktop" alt="Visualização em desktop"></td>
+    <td><img src="screenshots/mobile.png" height="330" title="Mobile" alt="Visualização em mobile"></td>
   </tr>
 </table>
